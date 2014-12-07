@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="40" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Choster_01" tilewidth="16" tileheight="16">
+  <image source="../Tiles/TileSet02.png" width="496" height="272"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmEEOgjAQRZuipoW4wJPoOVh4E2+CJ/Ea3ss2wViaTJ2WSVHyF2/z+EzphNXvlVKNnnNybpy8jXxP5Cl/zcy/fcvMj8LnesyC+5Z6E9w5ztvC+XfnDtGdPHv98Q3Dh3NSeUN4W3gud76nE/h+ykt9v9SeQ3927+z0nItzN8I/CE/NoTw1hzo3dz7ljwAAAAAAFRgitvxs7V0DAAAAYPvk9roSvWiqH+acG/Z10r33mp7qvUv23E7+W/+c00v7bMfIL+l7bSKf6p8tc76UT+2tVl/t/S/8tzW9VI/9L/4JAAAAAABEeQHoFTHh
+  </data>
+ </layer>
+ <layer name="decals" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2EsKgDAMRdG6DjcpjlyJbtehIAZrjPngPUMptrTph9darDGw762jzSp8nwbLkdhYjP/XMz9ZzAnWQ1sTleY5A2lPXvE6X7T9nOs2Qx3jHfYzAAAAJLwVAWh9lRdosqyK2UVk/ozDXXbtkbf//S5+kqtm4LFeFc80AAAA5LUDwQALtg==
+  </data>
+ </layer>
+</map>
